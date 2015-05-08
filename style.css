@@ -1,0 +1,12 @@
+    /*
+    Theme Name: Vendd Child Theme
+    Theme URI: http: //mysite.com/
+    Description: This is a custom child theme I have created.
+    Author: My Name
+    Author URI: http: //mysite.com/
+    Template: vendd
+    Version: 0.1
+    */
+
+    @import url("../vendd/style.css");
+
